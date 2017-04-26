@@ -1,0 +1,46 @@
+div#moving1 {
+	padding: 100px;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	background-color:#091928;
+	border-radius: 50%;
+	margin-top: -100px;
+	margin-left: -100px;
+}
+
+div#moving2 {
+	padding: 80px;
+	position: absolute;
+	top: 20px;
+	left: 20px;
+	background-color: #588F94;
+	border-radius: 50%;
+}
+
+div#moving3 {
+	padding: 60px;
+	position: absolute;
+	top: 20px;
+	left: 20px;
+	background-color: #7FAEA8;
+	border-radius: 50%;
+}
+
+div#moving4 {
+	padding: 40px;
+	position: absolute;
+	top: 20px;
+	left: 20px;
+	background-color: #CCDACD;
+	border-radius: 50%;
+}
+
+div#moving5 {
+	padding: 20px;
+	position: absolute;
+	top: 20px;
+	left: 20px;
+	background-color: #F5EED2;
+	border-radius: 50%;
+}

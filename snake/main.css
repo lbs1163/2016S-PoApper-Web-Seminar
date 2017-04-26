@@ -1,0 +1,38 @@
+html {
+	height: 100%;
+}
+
+body {
+	min-height: 100%;
+	margin: 0;
+	background-image: url("./snake.jpg");
+	background-position: 50% 50%;
+}
+
+canvas#snake {
+	border: 1px solid black;
+	display: block;
+	margin: auto;
+}
+
+h1 {
+	text-align: center;
+	margin: 0;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+div#wrapper {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	height: 868px;
+	margin-top: -434px;
+	margin-left: -351px;
+	background-color: white;
+}
+
+div#content {
+	height: 828px;
+	width: 702px;
+}

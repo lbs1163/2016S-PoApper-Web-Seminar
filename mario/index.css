@@ -1,0 +1,15 @@
+body {
+	width: 512px;
+	height: 448px;
+	background-image: url("./bg.png");
+	background-repeat: no-repeat;
+}
+
+div#mario {
+	width: 32px;
+	height: 64px;
+	background-image: url("./rightstanding.png");
+	position: absolute;
+	top: 335px;
+	left: 0px;
+}

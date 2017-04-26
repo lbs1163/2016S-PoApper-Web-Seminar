@@ -1,0 +1,30 @@
+div#game {
+	width: 800px;
+	position: relative;
+	left: 50%;
+	margin-left: -400px;
+	border: 5px solid white;
+}
+
+h1 {
+	color: white;
+	text-align: center;
+	font-size: 100px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	vertical-align: center;
+}
+
+h2 {
+	color: white;
+	text-align: center;
+	font-size: 30px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	vertical-align: center;
+}
+
+body {
+	min-width: 800px;
+	background-color: black;
+}
